@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MatthewHons
 - 👀 I’m interested in Web development
+- I would like to join the Becode's "Developpeur web junior" courses
 - 🌱 I’m currently learning PHP
 - 📫 How to reach me devwithmatt@gmail.com
 
