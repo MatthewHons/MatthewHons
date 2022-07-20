@@ -8,4 +8,4 @@ Si vous avez envie d'en savoir plus à propos de moi, n'hésitez pas à me conta
 <a href="mailto:matthewhons19@gmail.com"><img height="30" src="./mail.png"></a>
 </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewHons&layout=compact" />
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewHons&count_private=true&show_icons=true&theme=cobalt)]
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MatthewHons&count_private=true&show_icons=true&theme=cobalt" />
