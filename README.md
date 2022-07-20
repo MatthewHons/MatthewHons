@@ -7,5 +7,6 @@ Si vous avez envie d'en savoir plus à propos de moi, n'hésitez pas à me conta
 <a href="https://www.linkedin.com/in/matthew-hons/"><img height="30" src="./linkedin.png"></a>&nbsp;&nbsp;
 <a href="mailto:matthewhons19@gmail.com"><img height="30" src="./mail.png"></a>
 </p>
-
+<a href="https://github.com/MatthewHons">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewHons&layout=compact" />
+</a>
